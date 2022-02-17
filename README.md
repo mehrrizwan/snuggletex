@@ -15,10 +15,14 @@ Get the current version from maven central:
 ```xml
 <dependency>
 	<groupId>com.github.mehrrizwan</groupId>
-	<artifactId>snuggletex-jeuclid</artifactId>
-	<version>1.3.0</version>
+	<artifactId>snuggletex-core</artifactId>
+	<version>1.3.3</version>
 </dependency>
 ```
+
+or 
+
+`implementation 'com.github.mehrrizwan.snuggletex:snuggletex-core:1.3.3'`
 
 ## Version History
 
