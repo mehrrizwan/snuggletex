@@ -15,12 +15,6 @@ All Rights Reserved
 	<packaging>pom</packaging>
 	<modules>
 		<module>snuggletex-core</module>
-		<module>snuggletex-jeuclid</module>
-		<module>snuggletex-webapp</module>
-		<module>snuggletex-upconversion</module>
-		<!--
-		<module>snuggletex-distribution</module>
-		-->
 	</modules>
 	<properties>
 		<junit.version>4.12</junit.version>
